@@ -8,7 +8,7 @@ TechnoLimeStore contract implements the functionalities for the store and define
 
 The basic implementation is provided in methods: addProduct, returnProduct, buyProductById, getCustomerAddressesByProductBought, getStoreAvailableProducts
 
-================================================================================================================================================================
+========================================================================
 
 Task definition:
 
